@@ -1,0 +1,7 @@
+print zip
+list comprehension
+| = merge 2 dict
+''.join()
+f'{}{}'
+file handle: rb wb (byte format, can read picture)
+with open(...) as variable:... (alternative to file handle)
